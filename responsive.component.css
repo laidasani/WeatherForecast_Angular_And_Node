@@ -1,0 +1,316 @@
+/*Media Queries*/
+
+@media screen and (min-width: 768px) 
+{   
+
+    /*For whole page*/
+    .wrapper
+    {
+	    width: 60%;
+    }
+
+    /*For form*/
+    .ErrorMsg
+    {
+        color: red;
+        margin-left: 21%;
+    }
+    .formtag
+    {
+        padding-left: 10%;
+    }
+    .searchform p
+    {
+        font-size: 35px;
+    }
+
+    /*Navbar current*/
+    .nCCity 
+    {
+        font-size: 35px;
+    }
+    .nCTimezone 
+    {
+        color:#39515B;
+        font-size: 28px;
+    }
+    .nCTemperature
+    {
+        font-size: 35px;
+    }
+    .nCSummary 
+    {
+        font-size: 20px;
+    }
+    .apiimage
+    {
+        height: 150px;
+        width: 150px;
+    }
+    .img_table
+    {
+        width: 30px;
+        height: 30px;
+    }
+
+}
+@media screen and (max-width: 768px) 
+{
+
+    /*For whole page*/
+    .wrapper
+    {
+	    width: 95%;
+    }
+
+    /*For form*/
+    .ErrorMsg
+    {
+        color: red;
+        margin-left: 3%;
+       
+    }
+    .searchform p
+    {
+        font-size: 35px;
+    }
+
+
+    /*Navbar current*/
+    .nCCity 
+    {
+        font-size: 22px;
+    }
+    .nCTimezone 
+    {
+        color:#39515B;
+        font-size: 18px;
+    }
+    .nCTemperature
+    {
+        font-size: 22px;
+    }
+    .nCSummary 
+    {
+        font-size: 18px;
+    }
+    .apiimage
+    {
+        margin-left: -30px;
+        height: 125px;
+        width: 125px;
+    }
+    .img_table
+    {
+        width: 25px;
+        height: 25px;
+    }
+    .currentTable tr td
+    {
+        font-size: 12px;
+    }
+
+    /*Footer*/
+    .modalContent
+    {
+        margin-right:30%;;
+    }
+
+}
+@media screen and (min-width: 1000px) and (max-width: 1249px)
+{   
+
+    /*For whole page*/
+    .wrapper
+    {
+	    width: 75%;
+    }
+
+}
+@media screen and (min-width: 875px) and (max-width: 1000px)
+{   
+
+    /*For whole page*/
+    .wrapper
+    {
+	    width: 85%;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 875px)
+{   
+
+    /*For whole page*/
+    .wrapper
+    {
+	    width: 90%;
+    }
+    /*Navbar current*/
+    .nCCity 
+    {
+        font-size: 30px;
+    }
+    .nCTimezone 
+    {
+        color:#39515B;
+        font-size: 25px;
+    }
+    .nCTemperature
+    {
+        font-size: 30px;
+    }
+    .nCSummary 
+    {
+        font-size: 20px;
+    }
+    .apiimage
+    {
+        margin-left: -30px;
+        height: 135px;
+        width: 135px;
+    }
+    .img_table
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .currentTable tr td
+    {
+        font-size: 15px;
+    }
+
+}
+
+
+
+/*For form*/
+ .searchform
+{
+	color: white;
+	background-color: #4B87A9;
+	border: 2px solid black;
+    box-shadow: 3px 3px grey;
+    border-radius: 5px;
+}
+
+.red
+{
+	color: red;
+}
+
+.btncolor
+{
+	background-color: white;
+} 
+
+
+
+/*For 2 Buttons: In styles.css*/
+
+
+
+/*Navbar */
+.secondNav a
+{
+  color: black;
+  font-size: .80em;
+} 
+
+/*Twitter Image*/
+.twitterImg
+{
+	width:36px;
+} 
+
+/*Favorite Images*/
+#favoriteImg1
+{
+	padding-left: 3px;
+	padding-top: 4px;
+	height: 36px;
+	width:30px;
+	background-color: #F5EFF3;
+}
+#favoriteImg2
+{
+	padding-left: 3px;
+	padding-top: 4px;
+	color:goldenrod;
+	height: 36px;
+	width:30px;
+	background-color: #F5EFF3;
+} 
+
+
+
+
+
+/*Navbar Current*/
+.navbarCurrent
+{
+    background-color: #83CAF4;
+    border: 2px solid grey;
+    border-radius: 6px;
+}
+
+.customizingTable tr th, 
+.customizingTable tr td
+{
+     padding-top: 0px; 
+}
+
+.currentTable tr td, .currentTable tr th
+{
+	text-align: center;
+} 
+
+
+
+
+
+
+/*Favorites*/
+.favoriteImg
+{
+    width: 35px;
+    height: 35x;
+}
+.favTable tr:nth-child(odd){
+	color: black;
+	background-color: #6D91A9;
+ }
+ .favTable tr:nth-child(even){
+	color: black;
+	background-color:#A5D1EE;
+ } 
+ .favTable tr td, .favTable tr th
+ {
+     text-align: center;
+ }
+
+
+
+
+
+/*Modal*/
+#modalHead
+{
+	background: #6593AD;
+}
+#modalBody
+{
+	background: #9CD1F1;
+}
+.footerContainer
+{
+    background-color: #9CD1F1;
+}
+#modalFoot
+{
+    border-color: #5b5f63;
+}
+#modalImg
+{
+	width: 100px;
+	height: 100px;
+}
