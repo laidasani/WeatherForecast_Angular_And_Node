@@ -6,7 +6,7 @@ Reference Solution Video Mobile: https://www.youtube.com/watch?v=1LnX7_5y-ds&t=2
 This responsive application allows users to search for weather information based on the current location or any other location entered by the user. The results will be displayed in Currently, Hourly and Weekly tabs which on clicking, provides a detailed description for that particular tab. The detailed description provides interactive UI along with charts via Charts.js and Canvas.js. The application also allows to post on Twitter the current weather updates. Another important feature of the application was to add and remove cities to/from Favorites.
 
 # Technolgies Used
-Node.js, Express, Angular 7, Bootstrap, AJAX, JSON, HTML5, APIs, Amazon Web Services.
+Node.js, Express, Angular 7, TypeScript, Bootstrap, AJAX, JSON, APIs, HTML5, CSS, Amazon Web Services.
 
 # APIs Used
 Google Geocoding API, Forecast.io DarkSky API, IP API, Places AutoComplete API, Twitter API, Google Custom Search API
