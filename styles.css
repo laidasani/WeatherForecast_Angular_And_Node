@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: white;
+    background-color: #4B87A9;
+    border: 1px solid black;
+}
+.nav-pills .nav-link {
+    margin-left: 10px;
+    color: black;
+    border: 1px solid black;
+}
