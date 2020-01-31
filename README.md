@@ -1,5 +1,5 @@
 # WeatherForecast_Angular_And_Node
-Reference Solution Video Desktop: https://www.youtube.com/watch?v=FVUoo_WO_Ho.
+Reference Solution Video Desktop: https://www.youtube.com/watch?v=FVUoo_WO_Ho. \
 Reference Solution Video Mobile: https://www.youtube.com/watch?v=1LnX7_5y-ds&t=2s.
 
 # Overview
