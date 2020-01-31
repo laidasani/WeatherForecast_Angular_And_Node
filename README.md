@@ -12,7 +12,7 @@ Node.js, Express, Angular 7, TypeScript, Bootstrap, AJAX, JSON, APIs, HTML5, CSS
 Google Geocoding API, Forecast.io DarkSky API, IP API, Places AutoComplete API, Twitter API, Google Custom Search API
 
 # Features
-1. Autocomplete is implemented using Places AutoComplete API: https://developers.google.com/places/web-service/autocomplete?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_315916117409-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Place+Autocomplete-KWID_43700039136946060-kwd-446714566780-userloc_9073456&utm_term=KW_place%20autocomplete-ST_place+autocomplete&gclid=Cj0KCQiAvc_xBRCYARIsAC5QT9lfUjsD77VsMewlLwhJKJf-aLd_RpgQJ07Rjqv2wqw_kokaur3vuTEaAhKnEALw_wcB and Angular Material.
+1. Autocomplete is implemented using Places AutoComplete API and Angular Material.
 2. Real time validations are performed using two way data binding in Angular.
 3. Users can search weather for current location which is caught using IP API.
 4. In case the user want to share the weather they can do this using Twitter button which calls Twitter API and shares the weather details with a custom message, which users can write before sharing.
