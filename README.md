@@ -23,4 +23,4 @@ Google Geocoding API, Forecast.io DarkSky API, IP API, Places AutoComplete API, 
 9. Error Handling for edge cases has been implmeneted (No city in favorite, same city in favorite etc).
 10. Interactive Graphs and Charts are implemented using Chart.js and Canvas.js.
 11. Modal Dialog Box added to provide detailed information in Weekly tab using Bootstrap.
-12. Users can store favorite cities which are accessible at all times even after the website is closed. This is done using LocalStorage. They can append, delete from Favorites.
+12. Users can store favorite cities which are accessible at all times even after the website is closed. This is done using Local Storage. They can append, delete from Favorites.
