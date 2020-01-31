@@ -16,7 +16,7 @@ Google Geocoding API, Forecast.io DarkSky API, IP API, Places AutoComplete API, 
 2. Real time validations are performed using two way data binding in Angular.
 3. Users can search weather for current location which is caught using IP API.
 4. In case the user want to share the weather they can do this using Twitter button which calls Twitter API and shares the weather details with a custom message, which users can write before sharing.
-5. State Seal Images are obtained using custom Google Custom Search.
+5. State Seal Images are obtained using Google Custom Search.
 6. Bootstrap is used to make the website responsive and mobile friendly. 
 7. Custom pipes are used in Angular to truncate sentences when long.
 8. There are lot of animations like loading, adding and removing from favorites which were taken care of.
